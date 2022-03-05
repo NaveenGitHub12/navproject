@@ -9,9 +9,11 @@ int out=0;
 	      num=num/10;
 		}	
 		   System.out.println(out);
+		   System.out.println("ma");
 		}
 	public static void main(String[] args) {
 		Logic l = new Logic();
 		l.oddNoSeries(7654321);
+		System.out.println("naveen");
 	}
 }
